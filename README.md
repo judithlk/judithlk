@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @judithlk
+- 👋 Hi, I’m Judith
 - 👀 I’ve been into web development since September, 2018 
 - 🌱 I’m currently learning reactjs
 - 🤗 I’m looking to collaborate on web development projects using html, css, js
