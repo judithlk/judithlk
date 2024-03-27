@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Judith
 - 👀 Fullstack web developer (HTML, CSS, BootStrap, Sass, JavaScript, ReactJS, PHP, MySQL)
-- 🌱 I’m currently learning NodeJS and Firebase
+- 🌱 I’m currently learning NextJS
 - 🤗 I’m looking to collaborate on projects and learn
 - 📫 Reach me via judithyusuf00@gmail.com
 
