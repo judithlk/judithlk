@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Judith
 - 👀 Frontend developer 
-- 🌱 React amd React frameworks enthusiast
+- 🌱 React and React frameworks enthusiast
 - 🤗 I’m looking to collaborate on projects and learn
 - 📫 Reach me via judithyusuf00@gmail.com
 
