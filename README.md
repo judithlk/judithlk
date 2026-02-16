@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Judith
-- 👀 Fullstack developer 
-- 🌱 React, TypeScript, Next.js, Tailwind CSS, Redux, Node.js, Express, MongoDB, React Native
+- 👀 Frontend Engineer
+- 🌱 Next.js, React, TypeScript, Tailwind CSS, React Native, Tanstack Query
 - 📫 Reach me via judithyusuf00@gmail.com
 
 <!---
